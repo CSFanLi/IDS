@@ -21,12 +21,12 @@ The CICIDS2017 dataset consists of labeled network flows, including full packet 
 | -------- | ---- | ----------- |
 | Monday-WorkingHours.pcap_ISCX.csv | 158,603 KB | Benign(Normal human activities) |
 | Tuesday-WorkingHours.pcap_ISCX.csv | 131,914 KB | Benign, Brute Force(FTP-Patator, SSH-Patator) |
-| Wednesday-workingHours.pcap_ISCX.csv | 219,890 KB | DoS / DDoS, Heartbleed |
-| Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv | 50,804 KB | Web Attack(Brute Force, XSS, Sql Injection) |
-| Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv | 81,155 KB | Infiltration |
-| Friday-WorkingHours-Morning.pcap_ISCX.csv | 56,950 KB | |
-| Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv | 75,317 KB |  |
-| Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv | 75,104 KB | |
+| Wednesday-workingHours.pcap_ISCX.csv | 219,890 KB | Begin, DoS / DDoS, Heartbleed |
+| Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv | 50,804 KB | Benign, Web Attack(Brute Force, XSS, Sql Injection) |
+| Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv | 81,155 KB | Benign, Infiltration |
+| Friday-WorkingHours-Morning.pcap_ISCX.csv | 56,950 KB | Benign, Botnet |
+| Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv | 75,317 KB | Benign, DDos  |
+| Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv | 75,104 KB | Benign, PortScan |
 # peprocessing
 # Training Model
 # Result
