@@ -24,6 +24,9 @@ The CICIDS2017 dataset consists of labeled network flows, including full packet 
 | Wednesday-workingHours.pcap_ISCX.csv | 219,890 KB | DoS / DDoS, Heartbleed |
 | Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv | 50,804 KB | Web Attack(Brute Force, XSS, Sql Injection) |
 | Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv | 81,155 KB | Infiltration |
+| Friday-WorkingHours-Morning.pcap_ISCX.csv | 56,950 KB | |
+| Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv | 75,317 KB |  |
+| Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv | 75,104 KB | |
 # peprocessing
 # Training Model
 # Result
