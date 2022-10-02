@@ -11,9 +11,12 @@ CICIDS2017 dataset provided by Canadian Institute for Cybersecurity(CIC) and Uni
 <br/>
 The CICIDS2017 dataset consists of labeled network flows, including full packet payloads in pcap format, the corresponding profiles and the labeled flows (GeneratedLabelledFlows.zip) and CSV files for machine and deep learning purpose (MachineLearningCSV.zip) are publicly available for researchers.<br/>
 ### CSV FILE
-- Monday, July 3, 2017<br/>
-Monday-WorkingHours.pcap_ISCX.csv 158,603 KB **Benign (Normal human activities)** <br/>
-- Tuesday<br/>
+- Monday, July 3, 2017
+- Tuesday, July 4, 2017
+- Wednesday, July 5, 2017
+- Thursday, July 6, 2017
+- Friday, July 7, 2017
+
 ## peprocessing
 ## Training Model
 ## Result
