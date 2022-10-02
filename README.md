@@ -29,6 +29,7 @@ The CICIDS2017 dataset consists of labeled network flows, including full packet 
 | Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv | 75,317 KB | Benign, DDos  |
 | Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv | 75,104 KB | Benign, PortScan |
 ## 2. Data Analysis
+
 ### Reading CSV
 
 # peprocessing
