@@ -15,7 +15,7 @@ The CICIDS2017 dataset consists of labeled network flows, including full packet 
 - Tuesday, July 4, 2017
 - Wednesday, July 5, 2017
 - Thursday, July 6, 2017
-- Friday, July 7, 2017
+- Friday, July 7, 2017 
 ## peprocessing
 ## Training Model
 ## Result
