@@ -10,7 +10,7 @@ It proposed intrusion detection system by implementing many machine learning alg
 CICIDS2017 dataset provided by Canadian Institute for Cybersecurity(CIC) and University of New Brunswick(UNB) contains benign and the most up-to-date common attacks, which resembles the true real-world data. https://www.unb.ca/cic/datasets/ids-2017.html<br/>
 <br/>
 The CICIDS2017 dataset consists of labeled network flows, including full packet payloads in pcap format, the corresponding profiles and the labeled flows (GeneratedLabelledFlows.zip) and CSV files for machine and deep learning purpose (MachineLearningCSV.zip) are publicly available for researchers.<br/>
-## Dataset Source
+## 1. Dataset Source
 ### Date
 - Monday, July 3, 2017
 - Tuesday, July 4, 2017
@@ -28,6 +28,7 @@ The CICIDS2017 dataset consists of labeled network flows, including full packet 
 | Friday-WorkingHours-Morning.pcap_ISCX.csv | 56,950 KB | Benign, Botnet |
 | Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv | 75,317 KB | Benign, DDos  |
 | Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv | 75,104 KB | Benign, PortScan |
+## 2. Analysis
 # peprocessing
 # Training Model
 # Result
