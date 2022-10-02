@@ -4,3 +4,8 @@ It proposed intrusion detection system by implementing many machine learning alg
 # Implementation
 CIC-IDS2017 dataset,
 https://www.unb.ca/cic/datasets/ids-2017.html
+#Abstract
+#Dataset
+#Preprocessing
+#Training Model
+#Result
