@@ -57,7 +57,9 @@ Web Attack � Sql Injection         21
 Heartbleed                         11
 Name:  Label, dtype: int64
 ```
-![](https://raw.githubusercontent.com/CSFanLi/IDS/main/images/15categories.png)
+![15categories](https://raw.githubusercontent.com/CSFanLi/IDS/main/images/15categories.png)
+<br/>
+![8categories](https://raw.githubusercontent.com/CSFanLi/IDS/main/images/8categories.png)
 # peprocessing
 # Training Model
 # Result
