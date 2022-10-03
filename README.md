@@ -38,7 +38,8 @@ data.shape
 ```
 ### Label Value Counts
 ```python
-data[' Label'].value_counts()
+target_count=data[' Label'].value_counts()
+target_count
 BENIGN                        2273097
 DoS Hulk                       231073
 PortScan                       158930
