@@ -35,6 +35,9 @@ import pandas as pd
 data=pd.read_csv("...")
 data.shape
 (2830743, 79)
+```
+### Label Value Counts
+```python
 data[' Label'].value_counts()
 BENIGN                        2273097
 DoS Hulk                       231073
