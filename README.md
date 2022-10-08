@@ -60,6 +60,7 @@ Name:  Label, dtype: int64
 ![15categories](https://raw.githubusercontent.com/CSFanLi/IDS/main/images/15categories.png)
 <br/>
 ![8categories](https://raw.githubusercontent.com/CSFanLi/IDS/main/images/8categories.png)
+The dataset is characterised by a very different distribution of examples among the classes. The condition of multiple imbalanced classes is more restrictive when the aim of the final system is to obtain the most accurate precision for each of the comceptes of the problem.
 # peprocessing
 # Training Model
 # Result
