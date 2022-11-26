@@ -1,3 +1,6 @@
+# Improving Ensemble Learning-based Multi-class Intrusion Detection System with Synthetic Minority Over-Sampling Technique
+Author:Fan Li<br/>
+Last update:26/11/2022<br/>
 
 numpy 1.23.2  
 pandas 1.4.3  
