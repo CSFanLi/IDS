@@ -17,3 +17,4 @@ Due to the imbalanced training samples, anomaly-based intrusion detection system
 |package|numpy|pandas|seaborn|matplotlib|sklearn|imblearn|re|pip|xgboost|lightgbm|catboost|
 |--|--|--|--|--|--|--|--|--|--|--|--|
 |version|1.23.2|1.4.3|0.12.0|3.5.3|1.1.2|0.9.1|2.2.1|22.1.2|1.6.2|3.3.2|1.1.1|  
+### 3. Result
