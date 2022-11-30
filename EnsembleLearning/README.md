@@ -74,3 +74,13 @@ The dataset is characterised by a very different distribution of examples among 
 ## 3. Result
 |Model| Precision|	Recall|	F1score|	AUC|
 |--|--|--|--|--|
+|RF|	0.968|	0.910|	0.934|	0.954|
+|RF(SMOTE)|	0.954|	0.956|	0.950|	0.977|
+|Xgboost|	0.979|	0.959|	0.968|	0.979|
+|Xgboot(SMOTE)|	0.927|	0.989|	0.952|	0.994|
+|LightGBM|	0.465|	0.457|	0.461|	0.726|
+|LightGBM(SMOTE)|	0.586|	0.968|	0.638|	0.983|
+|CatBoost|	0.983|	0.933|	0.955|	0.966|
+|CatBoost(SMOTE)|	0.911|	0.983|	0.936|	0.994|
+|Stacking(Xgboost+LR)|	0.981|	0.932|	0.964|	0.974|
+|Proposed Method| 0.932|	0.989|	0.955|	0.994|
