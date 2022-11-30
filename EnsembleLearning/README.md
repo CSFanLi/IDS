@@ -83,4 +83,4 @@ The dataset is characterised by a very different distribution of examples among 
 |CatBoost|	0.983|	0.933|	0.955|	0.966|
 |CatBoost(SMOTE)|	0.911|	0.983|	0.936|	0.994|
 |Stacking(Xgboost+LR)|	0.981|	0.932|	0.964|	0.974|
-|Proposed Method| 0.932|	0.989|	0.955|	0.994|
+|Proposed Method\n StackingWithSMOTE| 0.932|	0.989|	0.955|	0.994|
